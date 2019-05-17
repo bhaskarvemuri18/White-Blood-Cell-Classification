@@ -1,0 +1,5 @@
+1. To train the classification models use the files run the files train_models_without_pca.py and train_models_with_pca.py.
+2. To test the trained models run the file test_saved_models.py
+3. We have alredy trained and saved all the models used in our experiments. All these models are saved with a .sav extension in the models directory.
+4. To run the CNN model unzip the data from data2-master and run the cnn.py.
+5. The dataset2-master can be downloaded from https://www.kaggle.com/paultimothymooney/blood-cells
